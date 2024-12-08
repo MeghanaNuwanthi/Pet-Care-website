@@ -2,7 +2,7 @@
 ---
 ##
 <div align="center">
-  <img src="https://github.com/MeghanaNuwanthi/Pet-Care-website/blob/main/Petcare.jpg" alt="Example Image" width="500">
+  <img src="https://github.com/MeghanaNuwanthi/Pet-Care-website/blob/main/Petcare.jpg" alt="PetCare" width="300">
 </div>
 
 ---

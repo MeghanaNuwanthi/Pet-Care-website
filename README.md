@@ -1,6 +1,8 @@
 # Pet-Care-website
 **A Comprehensive Solution for Your Furry Friends**
 
+---
+
 <div align="center">
   <img src="https://github.com/MeghanaNuwanthi/Pet-Care-website/blob/main/Petcare.jpg" alt="PetCare" width="250">
 </div>
